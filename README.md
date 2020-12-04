@@ -1,6 +1,6 @@
-# counter
+# Temperature converter
 
-Counter es un ejercicio realizado con la finalidad de tener un contador, el boton "COUNT" incrementa una variable de uno en uno y la muestra en pantalla.
+Converter es un ejercicio realizado con la finalidad de tener un convertidor de temperaturas, de celcius a fahrenheit y viceversa, unicamente acepta valores numericos y muestra el resultado redondeado a 4 decimales. 
 
 ## Pasos para ejecutar el ejercicio
 
